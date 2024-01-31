@@ -1,0 +1,5 @@
+fastapi==0.70.0
+ray==1.11.0
+transformers==4.11.0
+requests==2.26.0
+
